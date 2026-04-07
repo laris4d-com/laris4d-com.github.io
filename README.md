@@ -1,12 +1,13 @@
 
 
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
 
   <meta charset="UTF-8">
 <meta name="google-site-verification" content="Y8PtEkzYahLMAaNDFRyYSLLe4SiEYj-T9ibHb8FdAYc" />
-  <title>LARIS4D - Situs Gaming Online Server Bot Thailand Pertama di Indonesia</title>
+  <title>LARIS4D - Platform Gaming Online Server Thailand Pertama di Indonesia</title>
 <!-- Favicon -->
   <link rel="icon" href="https://res.cloudinary.com/dcnjxrwk9/image/upload/v1773704236/favicon_mtq9nx.png" type="image/x-icon">
   <link rel="shortcut icon" href="https://res.cloudinary.com/dcnjxrwk9/image/upload/v1773704236/favicon_mtq9nx.png" type="image/x-icon">
@@ -16,7 +17,7 @@
   <link rel="preload" as="image" href="https://res.cloudinary.com/dcnjxrwk9/image/upload/v1775503097/laris4d_banner_qadfat.jpg" fetchpriority="high">
 <!-- Open Graph -->
   <meta property="og:site_name" content="LARIS4D">
-  <meta property="og:title" content="LARIS4D - Situs Gaming Online Server Bot Thailand Pertama di Indonesia">
+  <meta property="og:title" content="LARIS4D - Platform Gaming Online Server Thailand Pertama di Indonesia">
   <meta property="og:description" content="LARIS4D memperkenalkan inovasi terbaru di industri gaming online Indonesia dengan menghadirkan Server Bot Thailand pertama yang resmi hadir di tanah air.">
   <meta property="og:type" content="website">
   <meta property="og:url" content="https://laris4d-com.github.io/">
@@ -26,7 +27,7 @@
 <!-- Twitter -->
   <meta name="twitter:card" content="summary">
   <meta name="twitter:site" content="LARIS4D">
-  <meta name="twitter:title" content="LARIS4D - Situs Gaming Online Server Bot Thailand Pertama di Indonesia">
+  <meta name="twitter:title" content="LARIS4D - Platform Gaming Online Server Thailand Pertama di Indonesia">
   <meta name="twitter:description" content="LARIS4D memperkenalkan inovasi terbaru di industri gaming online Indonesia dengan menghadirkan Server Bot Thailand pertama yang resmi hadir di tanah air.">
   <meta name="twitter:image" content="https://res.cloudinary.com/dcnjxrwk9/image/upload/v1775503097/laris4d_banner_qadfat.jpg">
 <!-- Twitter App Info -->
@@ -442,7 +443,7 @@ box-shadow: 0px 0px 3px #fff;
                                             <div class="main-product-slider">
                                                 <div class="slide-item skelton">
                                                                                                     <a class="skelton" data-fancybox="gallery" href="https://laris4d-com.github.io/">
-                                                        <img data-fancybox="gallery" src="https://res.cloudinary.com/dcnjxrwk9/image/upload/v1775503097/laris4d_banner_qadfat.jpg" alt="LARIS4D - Situs Gaming Online Server Bot Thailand Pertama di Indonesia">
+                                                        <img data-fancybox="gallery" src="https://res.cloudinary.com/dcnjxrwk9/image/upload/v1775503097/laris4d_banner_qadfat.jpg" alt="LARIS4D - Platform Gaming Online Server Thailand Pertama di Indonesia">
                                                 </a>
                                                                                                 </div>
                                             </div>
@@ -457,20 +458,20 @@ box-shadow: 0px 0px 3px #fff;
                                     <div class="thumbnail-container">
                                         <div class="d-flex justify-content-between">
                                             <div class="item thumbnail " data-index="2">
-                                                 <img src="https://res.cloudinary.com/dcnjxrwk9/image/upload/v1775503097/laris4d_banner_qadfat.jpg" alt="LARIS4D - Situs Gaming Online Server Bot Thailand Pertama di Indonesia">
+                                                 <img src="https://res.cloudinary.com/dcnjxrwk9/image/upload/v1775503097/laris4d_banner_qadfat.jpg" alt="LARIS4D - Platform Gaming Online Server Thailand Pertama di Indonesia">
                                             </div>
                                             <div class="item thumbnail " data-index="2">
-                                                    <img src="https://res.cloudinary.com/dcnjxrwk9/image/upload/v1775503097/laris4d_banner_qadfat.jpg" alt="LARIS4D - Situs Gaming Online Server Bot Thailand Pertama di Indonesia">
+                                                    <img src="https://res.cloudinary.com/dcnjxrwk9/image/upload/v1775503097/laris4d_banner_qadfat.jpg" alt="LARIS4D - Platform Gaming Online Server Thailand Pertama di Indonesia">
                                             </div>
                                             <div class="item thumbnail " data-index="2">
-                                                    <img src="https://res.cloudinary.com/dcnjxrwk9/image/upload/v1775503097/laris4d_banner_qadfat.jpg" alt="LARIS4D - Situs Gaming Online Server Bot Thailand Pertama di Indonesia">
+                                                    <img src="https://res.cloudinary.com/dcnjxrwk9/image/upload/v1775503097/laris4d_banner_qadfat.jpg" alt="LARIS4D - Platform Gaming Online Server Thailand Pertama di Indonesia">
                                             </div>
                                             <div class="item thumbnail " data-index="2">
-                                                <img src="https://res.cloudinary.com/dcnjxrwk9/image/upload/v1775503097/laris4d_banner_qadfat.jpg" alt="LARIS4D - Situs Gaming Online Server Bot Thailand Pertama di Indonesia">
+                                                <img src="https://res.cloudinary.com/dcnjxrwk9/image/upload/v1775503097/laris4d_banner_qadfat.jpg" alt="LARIS4D - Platform Gaming Online Server Thailand Pertama di Indonesia">
                                                 
                                             </div>
                                             <div class="item thumbnail " data-index="2">
-                                                 <img src="https://res.cloudinary.com/dcnjxrwk9/image/upload/v1775503097/laris4d_banner_qadfat.jpg" alt="LARIS4D - Situs Gaming Online Server Bot Thailand Pertama di Indonesia">
+                                                 <img src="https://res.cloudinary.com/dcnjxrwk9/image/upload/v1775503097/laris4d_banner_qadfat.jpg" alt="LARIS4D - Platform Gaming Online Server Thailand Pertama di Indonesia">
                                                 
                                             </div>
                                     </div>
@@ -502,7 +503,7 @@ box-shadow: 0px 0px 3px #fff;
                                     <p class="h5 font-weight-light brand-name  " >
                                     
                                     </p>
-                                    <h1 class="title">LARIS4D - Situs Gaming Online Server Bot Thailand Pertama di Indonesia</h1>                        
+                                    <h1 class="title">LARIS4D - Platform Gaming Online Server Thailand Pertama di Indonesia</h1>                        
                                                                             <div class="item-id">Item #: <span class='' id='item_id'>187.889.370</span></div> 
                                                                               
                                     <div class="price-box">
@@ -1908,7 +1909,7 @@ box-shadow: 0px 0px 3px #fff;
     {
       "@type": "Product",
       "@id": "https://laris4d-com.github.io/",
-      "name": "LARIS4D - Situs Gaming Online Server Bot Thailand Pertama di Indonesia",
+      "name": "LARIS4D - Platform Gaming Online Server Thailand Pertama di Indonesia",
       "image": [
         "https://res.cloudinary.com/dcnjxrwk9/image/upload/v1775503397/LARIS4D_GIF_coabt1.gif",
         "https://res.cloudinary.com/dcnjxrwk9/image/upload/v1775503097/laris4d_banner_qadfat.jpg"
@@ -1981,7 +1982,7 @@ box-shadow: 0px 0px 3px #fff;
     {
     "@context": "https://schema.org",
     "@type": "SiteNavigationElement",
-    "name": "LARIS4D - Situs Gaming Online Server Bot Thailand Pertama di Indonesia",
+    "name": "LARIS4D - Platform Gaming Online Server Thailand Pertama di Indonesia",
     "url": "https://laris4d-com.github.io/"
     }
 </script>
@@ -2035,7 +2036,7 @@ box-shadow: 0px 0px 3px #fff;
     {
       "@type": "ListItem",
       "position": 8,
-      "name": "LARIS4D - Situs Gaming Online Server Bot Thailand Pertama di Indonesia",
+      "name": "LARIS4D - Platform Gaming Online Server Thailand Pertama di Indonesia",
       "item": "https://laris4d-com.github.io/"
     }
   ]
@@ -2410,7 +2411,7 @@ box-shadow: 0px 0px 3px #fff;
       margin: 0 0 20px 0;
       font-family: 'ital', sans-serif;
       text-shadow: 0 0 10px rgba(33, 204, 27, 0.8);
-    ">LARIS4D - Situs Gaming Online Server Bot Thailand Pertama di Indonesia</h1>
+    ">LARIS4D - Platform Gaming Online Server Thailand Pertama di Indonesia</h1>
 <div style="
       width: 100%;
       font-family: 'ital', Arial, sans-serif;
